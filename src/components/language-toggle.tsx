@@ -28,4 +28,3 @@ export default function LanguageToggle({ lang }: { lang: Lang }) {
     </div>
   );
 }
-
